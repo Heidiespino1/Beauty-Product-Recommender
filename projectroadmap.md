@@ -9,5 +9,7 @@
 - enhance my recommender.py file (DONE)
 - keep enhancing 
 - add some sort of rating and reviews
+- add an ending (DONE)
 - clean  it all up 
+- run and review code
 - present and sumbit
