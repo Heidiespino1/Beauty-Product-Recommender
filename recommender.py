@@ -50,3 +50,5 @@ def get_recommendation(skin_type, concern, product):
 # Output
 recommendation = get_recommendation(skin_type, concern, product)
 print(f"\n💄 Recommended Product: {recommendation}")
+print("Thank you for using this app!")
+print("We hope you enjoy your new product! ")
