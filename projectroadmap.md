@@ -7,9 +7,8 @@
 - explored other projects (DONE)
 - have at least 6 commits (DONE)
 - enhance my recommender.py file (DONE)
-- keep enhancing 
-- add some sort of rating and reviews
+- keep enhancing [DONE]
 - add an ending (DONE)
-- clean  it all up 
-- run and review code
+- clean  it all up [DONE]
+- run and review code [DONE]
 - present and sumbit
